@@ -27,4 +27,4 @@ if st.button("Predict Price"):
     st.success(f"Estimated House Price: ₹{predicted_price:,.2f}")
 
 # Footer
-st.markdown("Developed by [Your Name]")
+st.markdown("Made with ❤️ by Deepanshu")
